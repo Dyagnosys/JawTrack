@@ -112,3 +112,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - MediaPipe team for face mesh implementation
 - OpenCV community
 - Gradio team for the web interface framework
+# jawtrack
