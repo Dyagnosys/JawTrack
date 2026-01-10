@@ -1,4 +1,7 @@
-gradio==4.19.2
-mediapipe==0.10.9
-numpy==1.26.4
-opencv-python==4.9.0.80
+gradio>=4.0.0
+mediapipe>=0.10.30
+numpy>=1.26.0
+opencv-python>=4.9.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+scipy>=1.11.0
